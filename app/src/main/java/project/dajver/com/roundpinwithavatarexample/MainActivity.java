@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
-import project.dajver.com.roundpinwithavatarexample.view.model.PinsModel;
+import project.dajver.com.roundpinwithavatarexample.view.repo.model.PinsModel;
 import project.dajver.com.roundpinwithavatarexample.view.repo.RepositoryImpl;
 
 public class MainActivity extends AppCompatActivity implements OnMapReadyCallback {

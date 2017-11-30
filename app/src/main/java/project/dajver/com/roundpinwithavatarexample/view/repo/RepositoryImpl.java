@@ -17,7 +17,7 @@ import java.util.Random;
 import io.reactivex.Observable;
 import project.dajver.com.roundpinwithavatarexample.R;
 import project.dajver.com.roundpinwithavatarexample.view.CustomPinView;
-import project.dajver.com.roundpinwithavatarexample.view.model.PinsModel;
+import project.dajver.com.roundpinwithavatarexample.view.repo.model.PinsModel;
 import project.dajver.com.roundpinwithavatarexample.view.repo.model.ResponseModel;
 
 /**

@@ -1,7 +1,7 @@
 package project.dajver.com.roundpinwithavatarexample.view.repo;
 
 import io.reactivex.Observable;
-import project.dajver.com.roundpinwithavatarexample.view.model.PinsModel;
+import project.dajver.com.roundpinwithavatarexample.view.repo.model.PinsModel;
 import project.dajver.com.roundpinwithavatarexample.view.repo.model.ResponseModel;
 
 /**

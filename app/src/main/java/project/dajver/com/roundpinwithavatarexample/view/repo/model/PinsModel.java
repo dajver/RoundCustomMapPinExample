@@ -1,4 +1,4 @@
-package project.dajver.com.roundpinwithavatarexample.view.model;
+package project.dajver.com.roundpinwithavatarexample.view.repo.model;
 
 /**
  * Created by gleb on 11/30/17.
